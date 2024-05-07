@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Security_Camera/static/css/main.313f2a33.css",
-    "main.js": "/Security_Camera/static/js/main.1c77c8e3.js",
+    "main.js": "/Security_Camera/static/js/main.79bf5d10.js",
     "index.html": "/Security_Camera/index.html",
     "main.313f2a33.css.map": "/Security_Camera/static/css/main.313f2a33.css.map",
-    "main.1c77c8e3.js.map": "/Security_Camera/static/js/main.1c77c8e3.js.map"
+    "main.79bf5d10.js.map": "/Security_Camera/static/js/main.79bf5d10.js.map"
   },
   "entrypoints": [
     "static/css/main.313f2a33.css",
-    "static/js/main.1c77c8e3.js"
+    "static/js/main.79bf5d10.js"
   ]
 }
